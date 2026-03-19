@@ -42,7 +42,7 @@ O design do projeto foi baseado na comunidade do Figma:
 ## 🔗 Link para o Projeto
 Você pode visualizar o projeto finalizado e online clicando no link abaixo:
 
-👉 **[Acesse o meu DevLinks aqui](https://cammizz.github.io/Projeto-Discover-Portfolio/)**
+👉 [Acesse o meu DevLinks aqui](https://cammizz.github.io/Projeto-Discover-Portfolio/)
 
 
 ---
